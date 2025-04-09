@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... java and python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... sumit.hooda001@umb.edu
+- 📫 How to reach me ... stg001.sh@gmail.com
 
 <!---
 hoodasumit/hoodasumit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
